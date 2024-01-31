@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "821575876582",
+    "project_id": "stareet-5cc05",
+    "storage_bucket": "stareet-5cc05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821575876582:android:9e141991f7f1a4d7a96027",
+        "android_client_info": {
+          "package_name": "com.example.stareet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821575876582-35qqvb7gkc7eoch5fha4tvf3dtquip92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stareet",
+            "certificate_hash": "a80d7f0b1069856a5ffecffc0e48863deca8a9cc"
+          }
+        },
+        {
+          "client_id": "821575876582-hs29oc0oc02dcablebj5inmcu6tgse5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwDy0ibE5ef-tyAQfsY1BraKA7OX270lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821575876582-hs29oc0oc02dcablebj5inmcu6tgse5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821575876582-cgps9uu94b4a9j92560m4l1qf9a4tlsf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stareet.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
